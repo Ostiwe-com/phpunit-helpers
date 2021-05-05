@@ -1,0 +1,29 @@
+# tmp files
+*~
+._*
+*.log
+
+# OS
+.DS_Store
+.Trashes
+.Spotlight-V100
+Thumbs.db
+Desktop.ini
+
+# IDE
+/.settings/
+/.idea/*
+!/.idea/codeStyles/Project.xml
+.classpath
+.buildpath
+.project/cache/
+.realsync
+*.iml
+*.iws
+*.swp
+*.sublime-project
+*.sublime-workspace
+
+# Project
+/vendor/
+/composer.lock

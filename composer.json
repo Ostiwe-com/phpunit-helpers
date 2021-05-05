@@ -2,6 +2,7 @@
     "name": "ostiwe-com/phpunit-helpers",
     "description": "Хелперы для phpunit тестов",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "Ostiwe",
